@@ -1,0 +1,28 @@
+body{
+  font: 75% georgia, sans-serif;
+  line-height:1.88889;
+  background-color: #E3DAC9;
+}
+h1 {
+  color: #FA8072;
+  text-align: center;
+}
+h2 {
+  color: green;
+  font-style: italic;
+  text-align: center;
+}
+p{
+  font-family: sans-serif;
+}
+ul{line-height: 40px;
+}
+
+strong{
+  font-style: italic;
+  font-weight: normal;
+}
+em{
+  font-style: normal;
+  font-weight: bold ;
+}
